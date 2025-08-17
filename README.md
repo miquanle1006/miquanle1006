@@ -23,7 +23,10 @@ Passionate about building impactful software, solving challenging problems, and 
 
 ## 💫 About Me:
 
-• 💻 Skilled in: JavaScript | Python | React | Node.js | MongoDB | Git | WebSockets<br><br>• 📚 Exploring: DSA by Patterns & System Design to sharpen problem-solving and architecture skills<br><br>• 🎯 Goal: Building scalable, real-time applications that make collaboration easier and smarter<br><br>• ⚡ Fun fact: I love blending hardware knowledge with software engineering to create end-to-end solutions
+💻 Skilled in: JavaScript | Python | React | Node.js | MongoDB | Git | WebSockets<br><br>
+📚 Exploring: DSA by Patterns & System Design to sharpen problem-solving and architecture skills<br><br>
+🎯 Goal: Building scalable, real-time applications that make collaboration easier and smarter<br><br>
+⚡ Fun fact: I love blending hardware knowledge with software engineering to create end-to-end solutions
 
 ## 💻 Tech Stack:
 
@@ -42,6 +45,6 @@ Passionate about building impactful software, solving challenging problems, and 
 
 ## 🌍 Let’s Connect
 
-🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com) 
-💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miquanle1006) 
-✉️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miquanle1006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miquanle1006) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miquanle1006@gmail.com)
